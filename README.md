@@ -8,6 +8,16 @@ The purpose of this analysis of the US Video Games data set using PySpark to fin
 ### Results:
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+How many Vine reviews and non-Vine reviews were there?
+- 94 Vine reviews and 40,471 Non-Vine reviews
+![Total Views](https://github.com/HappyM0f0/Amazon_Vine_Analysis/blob/main/Resources/total_reviews.png)
+
+How many Vine reviews were five stars? How many non-Vine reviews were five stars?
+- 48 Vine reviews were also five stars and 15,663 non-Vine reviews were five stars
+
+What percentage of Vine reviews were five stars? What percentage of non-Vine reviews were five stars?
+- Of the Vine reviews, 51% were five stars, and of non-Vine reviews, 38% were five stars.
+![Percent Views](https://github.com/HappyM0f0/Amazon_Vine_Analysis/blob/main/Resources/percent_reviews.png)
 
 ### Summary:
 
