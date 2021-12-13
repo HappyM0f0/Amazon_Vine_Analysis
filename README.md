@@ -6,8 +6,8 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 The purpose of this analysis of the US Video Games data set using PySpark to find any bias toward favorabale reviews from Vine members. 
 
 ### Results:
-
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+
 How many Vine reviews and non-Vine reviews were there?
 - 94 Vine reviews and 40,471 Non-Vine reviews
 ![Total Views](https://github.com/HappyM0f0/Amazon_Vine_Analysis/blob/main/Resources/total_reviews.png)
